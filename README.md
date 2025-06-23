@@ -71,6 +71,16 @@
 
 ---
 
+#### 👥 Collaboration Project
+> I’m currently collaborating with my teammate [singhvinay1](https://github.com/singhvinay1) on an exciting project:
+> **[Job_Tracker_](https://github.com/Prachin1001/Job_Tracker_)**  
+> 📋 **About**: A project designed to help track job applications and stay organized throughout the job search process.  
+> 🌟 Feel free to check out the original repo, fork it, and contribute:  
+> 👉 [Prachin1001/Job_Tracker_](https://github.com/Prachin1001/Job_Tracker_)  
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg" />
 </p>
+
